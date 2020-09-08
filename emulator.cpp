@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "lexical_analysis.hpp"
+#include "includes/lexical_analysis.hpp"
 
 int main() {
   std::cout << is_opcode("CMP") << std::endl;

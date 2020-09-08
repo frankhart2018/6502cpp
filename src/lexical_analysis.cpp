@@ -1,8 +1,8 @@
 #include <string>
 #include <map>
 
-#include "lexical_analysis.hpp"
-#include "token.hpp"
+#include "../includes/lexical_analysis.hpp"
+#include "../includes/token.hpp"
 
 
 int is_opcode(std::string token) {
