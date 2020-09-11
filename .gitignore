@@ -1,3 +1,4 @@
 .DS_Store
 a.out
 6502
+*.asm
